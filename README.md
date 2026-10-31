@@ -165,6 +165,6 @@ Todos os sorteios usam `random_state=42`, então os resultados são reproduzíve
 
 | Nome | RM |
 |---|---|
-| _preencher_ | _preencher_ |
+| Bruno Silva França | rm378898|
 
 Projeto desenvolvido para o Tech Challenge da Fase 1 da pós-graduação.
