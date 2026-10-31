@@ -4,6 +4,17 @@ Análise da satisfação de clientes de um e-commerce a partir do **NPS** (Net P
 
 O projeto segue o ciclo **CRISP-DM**: entendimento do negócio, entendimento e preparação dos dados, modelagem, avaliação e proposta de implantação.
 
+## 📦 Entregáveis
+
+| Item | Link |
+|---|---|
+| 🎥 Vídeo executivo | [Assistir no Loom](https://www.loom.com/share/8293a2099f5a460da7affba0b0887bc1) |
+| 📊 Apresentação para gestores | [reports/NPS onde a experiência quebra.pdf](reports/NPS%20onde%20a%20experie%CC%82ncia%20quebra.pdf) |
+| 📄 Relatório completo (Partes 1 a 5) | [reports/Desafio_NPS_Fase1_Partes_1_a_5.pdf](reports/Desafio_NPS_Fase1_Partes_1_a_5.pdf) |
+| 📝 Resumo da entrega (1 página) | [reports/Entrega_TechChallenge_Fase1_Bruno_Silva_Franca_RM378898.pdf](reports/Entrega_TechChallenge_Fase1_Bruno_Silva_Franca_RM378898.pdf) |
+| 🔍 Análise exploratória | [notebooks/01_eda_nps.ipynb](notebooks/01_eda_nps.ipynb) |
+| 🤖 Modelo preditivo | [notebooks/02_modelo_preditivo_nps.ipynb](notebooks/02_modelo_preditivo_nps.ipynb) |
+
 ---
 
 ## 🎯 Objetivo
@@ -104,6 +115,8 @@ pos-fiap-tech-challenge1-nps/
 ├── reports/
 │   ├── Desafio_NPS_Fase1_Partes_1_a_5.docx  # relatório completo
 │   ├── Desafio_NPS_Fase1_Partes_1_a_5.pdf
+│   ├── NPS onde a experiência quebra.pdf    # apresentação para gestores
+│   ├── Entrega_TechChallenge_..._RM378898.pdf  # resumo de 1 página
 │   └── figuras/                             # gráficos principais
 ├── src/
 │   └── pipeline.py                     # treino e pontuação fora do notebook
