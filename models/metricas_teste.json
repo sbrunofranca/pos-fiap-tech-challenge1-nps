@@ -1,0 +1,15 @@
+{
+  "modelo_logistica": {
+    "auc_roc": 0.8680884676145341,
+    "acuracia": 0.858,
+    "precision": 0.8857142857142857,
+    "recall": 0.9549763033175356,
+    "f1": 0.9190421892816419
+  },
+  "regra_atraso_1_dia": {
+    "auc_roc": 0.7843146190302589,
+    "precision": 0.8808988764044944,
+    "recall": 0.9289099526066351
+  },
+  "taxa_detratores_teste": 0.844
+}
